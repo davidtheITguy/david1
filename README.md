@@ -1,4 +1,3 @@
-# hello-world
-Just saying hello
+# david1
 
-This is a test new commit of the README.md file. My first commit.
+This is test source for a Home Assistant component integration - does nothing
